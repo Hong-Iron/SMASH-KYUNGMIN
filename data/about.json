@@ -1,0 +1,34 @@
+{
+ "region": "경기 의정부시 흥선동",
+ "nameEn": "Kyungmin University",
+ "added": "2026-11-01T02:27",
+ "rank": 147,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SHINHAN",
+   "campus": "신한대학교 의정부캠퍼스",
+   "km": 4.5
+  },
+  {
+   "code": "KDU-YANGJU",
+   "campus": "경동대학교 메트로폴캠퍼스",
+   "km": 8.4
+  },
+  {
+   "code": "DUKSUNG",
+   "campus": "덕성여자대학교 쌍문캠퍼스",
+   "km": 10.4
+  },
+  {
+   "code": "KBU",
+   "campus": "한국성서대학교",
+   "km": 11.4
+  },
+  {
+   "code": "JOONGBU-GOYANG",
+   "campus": "중부대학교 고양캠퍼스",
+   "km": 12.2
+  }
+ ]
+}
